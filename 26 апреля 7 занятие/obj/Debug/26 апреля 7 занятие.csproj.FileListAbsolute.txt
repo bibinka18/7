@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\впф\26 апреля 7 занятие\obj\Debug\26 апреля 7 занятие.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\впф\26 апреля 7 занятие\obj\Debug\26 апреля 7 занятие.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\впф\26 апреля 7 занятие\obj\Debug\App.g.cs
+C:\Users\user\Desktop\впф\26 апреля 7 занятие\obj\Debug\26 апреля 7 занятие_MarkupCompile.cache
+C:\Users\user\Desktop\впф\26 апреля 7 занятие\bin\Debug\26 апреля 7 занятие.exe.config
+C:\Users\user\Desktop\впф\26 апреля 7 занятие\bin\Debug\26 апреля 7 занятие.exe
+C:\Users\user\Desktop\впф\26 апреля 7 занятие\bin\Debug\26 апреля 7 занятие.pdb
+C:\Users\user\Desktop\впф\26 апреля 7 занятие\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\впф\26 апреля 7 занятие\obj\Debug\26 апреля 7 занятие_MarkupCompile.lref
+C:\Users\user\Desktop\впф\26 апреля 7 занятие\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\впф\26 апреля 7 занятие\obj\Debug\26 апреля 7 занятие.g.resources
+C:\Users\user\Desktop\впф\26 апреля 7 занятие\obj\Debug\_26_апреля_7_занятие.Properties.Resources.resources
+C:\Users\user\Desktop\впф\26 апреля 7 занятие\obj\Debug\26 апреля 7 занятие.csproj.GenerateResource.cache
+C:\Users\user\Desktop\впф\26 апреля 7 занятие\obj\Debug\26 апреля 7 занятие.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\впф\26 апреля 7 занятие\obj\Debug\26 апреля 7 занятие.exe
+C:\Users\user\Desktop\впф\26 апреля 7 занятие\obj\Debug\26 апреля 7 занятие.pdb
